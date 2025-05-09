@@ -26,3 +26,4 @@ jobs:
         with:
           name: DeathPrison-jar
           path: target/*.jar
+
